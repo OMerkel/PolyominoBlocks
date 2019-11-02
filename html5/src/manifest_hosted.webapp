@@ -1,0 +1,22 @@
+{
+  "version": "0.1",
+  "name": "PolyominoBlocks",
+  "description": "Polyomino Blocks",
+  "launch_path": "/PolyominoBlocks/html5/src/index.html",
+  "icons": {
+    "16": "/PolyominoBlocks/html5/src/img/icons/polyomino16.png",
+    "32": "/PolyominoBlocks/html5/src/img/icons/polyomino32.png",
+    "48": "/PolyominoBlocks/html5/src/img/icons/polyomino48.png",
+    "60": "/PolyominoBlocks/html5/src/img/icons/polyomino60.png",
+    "64": "/PolyominoBlocks/html5/src/img/icons/polyomino64.png",
+    "90": "/PolyominoBlocks/html5/src/img/icons/polyomino90.png",
+    "120": "/PolyominoBlocks/html5/src/img/icons/polyomino120.png",
+    "128": "/PolyominoBlocks/html5/src/img/icons/polyomino128.png",
+    "256": "/PolyominoBlocks/html5/src/img/icons/polyomino256.png"
+  },
+  "developer": {
+    "name": "Oliver Merkel",
+    "url": "https://github.com/OMerkel/PolyominoBlocks"
+  },
+  "installs_allowed_from": ["*"]
+}
